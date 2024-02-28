@@ -30,3 +30,6 @@ A simple GUI-based application developed in Python using the Tkinter module. The
 - Utilizes Tkinter for a user-friendly interface.
 - Provides an engaging experience with classic games.
 - Allows repeated gameplay until the user chooses to quit.
+
+
+![Game](https://github.com/LugaravlesM/SelvaRagul_Hangman/assets/156414212/a7d1ced4-fb67-4443-99e8-3b69f5b08937)
